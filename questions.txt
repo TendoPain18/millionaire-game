@@ -1,0 +1,595 @@
+99
+Which is the largest country in the world?
+India
+USA
+China
+Russia
+Russia
+How many days are there in a leap year?
+354
+366
+365
+420
+366
+Which one of these four birds has the longest beak and feet?
+Heron
+Parrot
+Crow
+Pigeon
+Heron
+What is the national currency of the United States of America (USA)?
+Euro
+Peso 
+Dollar
+Yen
+Dollar
+Guido van Rossum in 1991 designed which language?
+Javascript
+Python
+Java
+C++
+Python
+Finish the sequence: 9, 18, 27, _?
+36
+34
+30
+37
+36
+Which one is the first fully supported 64-bit operating system?
+Windows 7
+Linux
+Mac
+Windows XP
+Linux
+Which animal is called the king of the jungle?
+Elephant
+Lion
+Tiger
+Cow
+Lion
+what time corresponds to 23:23 hours ?
+11:23PM
+11.11PM
+7:23PM
+9.11PM
+11:23PM
+Which team has won most number of IPL matches ?
+KKR
+CSK
+MI
+RCB
+MI
+Which is the largest planet in our Solar system?
+Earth
+Uranus
+Mars
+Jupiter
+Jupiter
+How many continents are there in the world?
+8
+5
+7
+6
+7
+How many years are there in one Millennium?
+100 years
+50 years
+500 years
+1000 years
+1000 years
+ipad is manufactured by?
+Google
+Microsoft
+Amazon
+Apple
+Apple
+Who founded Microsoft?
+Monty Ritz
+Dans Lio
+Bill Gates
+Jeff Bezos
+Bill Gates
+If 5x + 32 = 4 - 2x what is the value of x ?
+-4
+-3
+12
+7
+-4
+What is the most populous country in the world?
+India
+China
+United States
+Russia
+China
+What is the largest ocean in the world?
+Atlantic Ocean
+Indian Ocean
+Arctic Ocean
+Pacific Ocean
+Pacific Ocean
+Who invented the telephone?
+Alexander Graham Bell
+Thomas Edison
+Nikola Tesla
+Albert Einstein
+Alexander Graham Bell
+What is the capital city of Australia?
+Sydney
+Melbourne
+Canberra
+Brisbane
+Canberra
+What is the smallest planet in our Solar System?
+Earth
+Venus
+Mercury
+Mars
+Mercury
+What is the name of the longest river in Africa?
+Nile
+Congo
+Zambezi
+Niger
+Nile
+Who wrote the novel "To Kill a Mockingbird"?
+Ernest Hemingway
+J.D. Salinger
+Harper Lee
+F. Scott Fitzgerald
+Harper Lee
+What is the largest organ in the human body?
+Lungs
+Skin
+Liver
+Brain
+Skin
+What is the chemical symbol for gold?
+Au
+Ag
+Pt
+Cu
+Au
+What is the most widely spoken language in the world?
+English
+Mandarin Chinese
+Spanish
+Arabic
+Mandarin Chinese
+Which planet in our solar system is closest to the sun?
+Mars
+Earth
+Venus
+Jupiter
+Venus
+Who painted the Mona Lisa?
+Vincent Van Gogh
+Leonardo da Vinci
+Pablo Picasso
+Claude Monet
+Leonardo da Vinci
+What is the largest species of shark?
+Hammerhead Shark
+Great White Shark
+Whale Shark
+Tiger Shark
+Whale Shark
+What is the smallest country in the world by land area?
+Vatican City
+Monaco
+Maldives
+San Marino
+Vatican City
+Which famous playwright wrote "Hamlet" and "Romeo and Juliet"?
+William Shakespeare
+Tennessee Williams
+Arthur Miller
+Samuel Beckett
+William Shakespeare
+Which two countries share the longest international border in the world?
+United States and Mexico
+Russia and China
+India and Pakistan
+Argentina and Chile
+United States and Mexico
+Which gas is most abundant in the Earth's atmosphere?
+Nitrogen
+Oxygen
+Carbon Dioxide
+Argon
+Nitrogen
+What is the smallest bone in the human body?
+Stapes bone in the ear
+Femur bone in the leg
+Humerus bone in the arm
+Skull bone in the head
+Stapes bone in the ear
+What is the largest desert in the world?
+Sahara Desert
+Arabian Desert
+Antarctic Desert
+Gobi Desert
+Antarctic Desert
+What is the smallest mammal in the world?
+Pygmy Shrew
+Bumblebee Bat
+Dwarf Mongoose
+Weasel
+Bumblebee Bat
+What is the capital city of Turkey?
+Ankara
+Istanbul
+Izmir
+Antalya
+Ankara
+Who was the first person to walk on the moon?
+Buzz Aldrin
+Neil Armstrong
+Michael Collins
+Yuri Gagarin
+Neil Armstrong
+What is the tallest mountain in North America?
+Mount Everest
+Denali (Mount McKinley)
+Mount Kilimanjaro
+Mount Aconcagua
+Denali (Mount McKinley)
+Who directed the movie "Jaws"?
+Steven Spielberg
+Martin Scorsese
+Alfred Hitchcock
+Francis Ford Coppola
+Steven Spielberg
+What is the smallest ocean in the world?
+Atlantic Ocean
+Indian Ocean
+Arctic Ocean
+Southern Ocean
+Arctic Ocean
+Which country is both an island and a continent?
+New Zealand
+Australia
+Madagascar
+Sri Lanka
+Australia
+What is the chemical symbol for water?
+H2O
+CO2
+O2
+HCl
+H2O
+What is the most populated city in the world?
+Beijing
+New York
+Tokyo
+Shanghai
+Tokyo
+Which of these countries is NOT in Europe?
+Canada
+Spain
+Greece
+France
+Canada
+What is the currency of Japan?
+Yuan
+Yen
+Peso
+Rupee
+Yen
+Who wrote the book "To Kill a Mockingbird"?
+J.D. Salinger
+Harper Lee
+Ernest Hemingway
+F. Scott Fitzgerald
+Harper Lee
+What is the longest river in the world?
+Nile River
+Amazon River
+Yangtze River
+Mississippi River
+Nile River
+What is the name of the highest mountain in Africa?
+Kilimanjaro
+Mount Everest
+Denali
+K2
+Kilimanjaro
+Which gas is commonly used in balloons to make them float?
+Oxygen
+Carbon Dioxide
+Helium
+Methane
+Helium
+What is the smallest planet in our solar system?
+Jupiter
+Venus
+Mercury
+Saturn
+Mercury
+What is the name of the famous document signed in 1776 declaring the 13 American colonies independent from Great Britain?
+The Declaration of Independence
+The Bill of Rights
+The Emancipation Proclamation
+The Articles of Confederation
+The Declaration of Independence
+What is the name of the device used to measure earthquakes?
+Thermometer
+Barometer
+Seismometer
+Hygrometer
+Seismometer
+What is the name of the Greek goddess of love and beauty?
+Hera
+Athena
+Aphrodite
+Artemis
+Aphrodite
+Who painted the "Sistine Chapel ceiling"?
+Leonardo da Vinci
+Michelangelo
+Raphael
+Donatello
+Michelangelo
+What is the largest organ in the human body?
+Lungs
+Brain
+Liver
+Skin
+Skin
+What is the largest lake in Africa?
+Lake Malawi
+Lake Victoria
+Lake Chad
+Lake Tanganyika
+Lake Victoria
+What is the name of the world's largest coral reef system?
+Great Barrier Reef
+Cocos Island
+Belize Barrier Reef
+Andros Barrier Reef
+Great Barrier Reef
+What is the capital city of Spain?
+Barcelona
+Madrid
+Seville
+Valencia
+Madrid
+Which country is both in Europe and Asia?
+China
+Russia
+India
+Thailand
+Russia
+Who is the author of the "Harry Potter" book series?
+J.K. Rowling
+Stephenie Meyer
+Suzanne Collins
+Veronica Roth
+J.K. Rowling
+What is the name of the closest star to Earth?
+Proxima Centauri
+Betelgeuse
+Alpha Centauri
+Sirius
+Proxima Centauri
+Which country is the world's largest producer of coffee?
+Brazil
+Colombia
+Ethiopia
+Vietnam
+Brazil
+What is the name of the largest desert in the world?
+Sahara Desert
+Gobi Desert
+Arabian Desert
+Kalahari Desert
+Sahara Desert
+What is the smallest continent by land area?
+Africa
+Europe
+South America
+Australia
+Australia
+Who wrote the famous novel "1984"?
+George Orwell
+Aldous Huxley
+F. Scott Fitzgerald
+Ernest Hemingway
+George Orwell
+What is the chemical symbol for gold?
+Au
+Ag
+Fe
+Cu
+Au
+Which planet is known as the Red Planet?
+Mars
+Venus
+Mercury
+Jupiter
+Mars
+Which artist painted the famous artwork "The Starry Night"?
+Pablo Picasso
+Claude Monet
+Vincent van Gogh
+Salvador Dali
+Vincent van Gogh
+What is the currency of Brazil?
+Dollar
+Peso
+Real
+Euro
+Real
+What is the name of the largest ocean in the world?
+Atlantic Ocean
+Indian Ocean
+Pacific Ocean
+Arctic Ocean
+Pacific Ocean
+Which country is the largest by area?
+Russia
+China
+USA
+Canada
+Russia
+What is the name of the largest waterfall in the world?
+Victoria Falls
+Niagara Falls
+Angel Falls
+Iguazu Falls
+Angel Falls
+Who directed the movie "Inception"?
+Christopher Nolan
+Steven Spielberg
+Quentin Tarantino
+Martin Scorsese
+Christopher Nolan
+What is the chemical symbol for oxygen?
+O
+H
+N
+C
+O
+Which is the largest mammal in the world?
+Elephant
+Giraffe
+Blue Whale
+Hippopotamus
+Blue Whale
+What is the name of the famous volcano in Italy that erupted in 79 AD and destroyed the city of Pompeii?
+Mount Etna
+Mount Vesuvius
+Mount St. Helens
+Krakatoa
+Mount Vesuvius
+What is the name of the smallest country in the world?
+San Marino
+Monaco
+Vatican City
+Liechtenstein
+Vatican City
+Who wrote the book "The Catcher in the Rye"?
+J.D. Salinger
+F. Scott Fitzgerald
+Ernest Hemingway
+Mark Twain
+J.D. Salinger
+What is the name of the largest bird in the world?
+Emu
+Ostrich
+Penguin
+Albatross
+Ostrich
+What is the name of the famous sea between Europe and Africa?
+Mediterranean Sea
+Red Sea
+Arabian Sea
+Baltic Sea
+Mediterranean Sea
+Who is the current president of the United States?
+Joe Biden
+Barack Obama
+Donald Trump
+George W. Bush
+Joe Biden
+Which planet is known as the "Red Planet"?
+Jupiter
+Mars
+Venus
+Uranus
+Mars
+What is the smallest country in the world by land area?
+Vatican City
+Monaco
+Nauru
+San Marino
+Vatican City
+What is the name of the scientist who developed the theory of relativity?
+Isaac Newton
+Albert Einstein
+Stephen Hawking
+Galileo Galilei
+Albert Einstein
+Which famous artist painted the "Mona Lisa"?
+Pablo Picasso
+Claude Monet
+Leonardo da Vinci
+Vincent van Gogh
+Leonardo da Vinci
+What is the name of the currency used in the United Kingdom?
+Dollar
+Euro
+Pound
+Yen
+Pound
+What is the smallest ocean in the world?
+Atlantic Ocean
+Indian Ocean
+Arctic Ocean
+Southern Ocean
+Arctic Ocean
+What is the name of the currency used in China?
+Yuan
+Yen
+Peso
+Rupee
+Yuan
+Who wrote the famous novel "1984"?
+George Orwell
+Aldous Huxley
+Ernest Hemingway
+F. Scott Fitzgerald
+George Orwell
+What is the name of the largest waterfall in the world?
+Niagara Falls
+Victoria Falls
+Angel Falls
+Iguazu Falls
+Angel Falls
+What is the largest mammal in the world?
+Giraffe
+Elephant
+Hippopotamus
+Blue Whale
+Blue Whale
+Who is the author of "The Lord of the Rings" book series?
+J.R.R. Tolkien
+George R.R. Martin
+J.K. Rowling
+Stephen King
+J.R.R. Tolkien
+What is the name of the currency used in Japan?
+Yuan
+Yen
+Peso
+Rupee
+Yen
+What is the capital of Australia?
+Melbourne
+Sydney
+Canberra
+Brisbane
+Canberra
+What is the name of the tallest mountain in the world?
+Mount Kilimanjaro
+Mount Everest
+Denali
+K2
+Mount Everest
+Which famous scientist discovered the law of gravity?
+Isaac Newton
+Albert Einstein
+Stephen Hawking
+Galileo Galilei
+Isaac Newton
+What is the name of the world's largest desert?
+Gobi Desert
+Sahara Desert
+Mojave Desert
+Atacama Desert
+Sahara Desert
+What is the name of the currency used in Russia?
+Yuan
+Yen
+Peso
+Ruble
+Ruble

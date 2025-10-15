@@ -1,0 +1,10 @@
+# Core GUI dependencies
+tkinter
+Pillow
+
+# Audio and speech synthesis
+pygame
+pyttsx3
+
+# Text reshaping for Arabic support
+arabic-reshaper
