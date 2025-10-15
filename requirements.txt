@@ -1,10 +1,4 @@
-# Core GUI dependencies
-tkinter
-Pillow
-
-# Audio and speech synthesis
-pygame
-pyttsx3
-
-# Text reshaping for Arabic support
-arabic-reshaper
+Pillow==10.1.0
+pygame==2.5.2
+pyttsx3==2.90
+arabic-reshaper==3.0.0
