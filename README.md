@@ -23,16 +23,16 @@ This interactive trivia game faithfully recreates the experience of the popular 
 ## 🎮 Screenshots
 
 ### Start Screen
-![Start Screen](images/start_BG.png)
-*The game's welcome screen*
+![Start Screen](images/start_screen.png)
+*The game's welcome screen with the iconic logo*
 
 ### Game Window
-![Game Window](images/questions.png)
-*Main gameplay showing question and answer choices*
+![Game Window](images/game_window.png)
+*Main gameplay interface showing question, answer choices, and lifelines*
 
 ### Progress Tracker
-![Progress](images/n0.png)
-*Track your progress through the 15 questions*
+![Progress](images/n1.png)
+*Visual indicator tracking your progress through all 15 questions*
 
 ## 🚀 Installation
 
