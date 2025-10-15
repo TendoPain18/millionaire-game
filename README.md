@@ -32,7 +32,6 @@ This interactive trivia game faithfully recreates the experience of the popular 
 
 ### Progress Tracker
 ![Progress](images/n1.png)
-*Visual indicator tracking your progress through all 15 questions*
 
 ## 🚀 Installation
 
@@ -148,6 +147,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Inspired by the classic "Who Wants To Be A Millionaire" TV show
+- Images and audio assets from [Coding Lifestyle 4u](https://www.youtube.com/@codinglifestyle4u) YouTube channel - [Tutorial Video](https://www.youtube.com/watch?v=uj_52lCH4I8)
+- Game implementation and code written independently from scratch
 - Built with Python and Tkinter
 - Uses pygame for audio playback
 - TTS powered by pyttsx3
