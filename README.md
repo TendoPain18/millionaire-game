@@ -155,39 +155,42 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 <!-- CONTACT -->
-<table align="center" width="80%">
+<div id="toc" align="center">
+  <ul style="list-style: none">
+    <summary>
+      <h1 align="center">
+        🚀
+        CONTACT ME
+      </h1>
+    </summary>
+  </ul>
+</div>
+<table align="center" style="width: 100%; max-width: 600px;">
 <tr>
-  <td width="40%" align="center" valign="middle">
-    <p style="font-size:28px;">
-      🚀
-      <strong>CONTACT ME</strong>
-    </p>
+  <td style="width: 20%; text-align: center;">
+    <a href="https://www.linkedin.com/in/amr-ashraf-86457134a/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 43px; width: 144px;"/>
+    </a>
   </td>
-  <td width="60%" align="center">
-    <table>
-      <tr>
-        <td align="center" width="25%" style="padding: 0px 0px; padding-top: 10px;">
-          <a href="https://www.linkedin.com/in/amr-ashraf-86457134a/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="130" height="40"/>
-          </a>
-        </td>
-        <td align="center" width="25%" style="padding: 0px 0px; padding-top: 10px;">
-          <a href="https://github.com/TendoPain18" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="130" height="40"/>
-          </a>
-        </td>
-        <td align="center" width="25%" style="padding: 0px 0px; padding-top: 10px;">
-          <a href="mailto:amrgadalla01@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="130" height="40"/>
-          </a>
-        </td>
-        <td align="center" width="25%" style="padding: 0px 0px; padding-top: 10px;">
-          <a href="https://www.facebook.com/amr.ashraf.7311/" target="_blank">
-            <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="130" height="45"/>
-          </a>
-        </td>
-      </tr>
-    </table>
+  <td style="width: 20%; text-align: center;">
+    <a href="https://github.com/TendoPain18" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="height: 43px; width: 144px;"/>
+    </a>
+  </td>
+  <td style="width: 20%; text-align: center;">
+    <a href="mailto:amrgadalla01@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height: 43px; width: 144px;"/>
+    </a>
+  </td>
+  <td style="width: 20%; text-align: center;">
+    <a href="https://www.facebook.com/amr.ashraf.7311/" target="_blank">
+      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="height: 43px; width: 144px;"/>
+    </a>
+  </td>
+  <td style="width: 20%; text-align: center;">
+    <a href="https://wa.me/201019702121" target="_blank">
+      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="height: 43px; width: 144px;"/>
+    </a>
   </td>
 </tr>
 </table>
