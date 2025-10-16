@@ -153,7 +153,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Uses pygame for audio playback
 - TTS powered by pyttsx3
 
-
+##
 <!-- CONTACT -->
 <div id="toc" align="center">
   <ul style="list-style: none">
@@ -195,7 +195,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </tr>
 </table>
 <!-- END CONTACT -->
+<br>
 
----
+##
 
 **Enjoy the game and good luck becoming a millionaire! 💰✨**
