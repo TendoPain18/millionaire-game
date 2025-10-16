@@ -158,32 +158,32 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <table align="center" width="80%">
 <tr>
   <td width="40%" align="center" valign="middle">
-    <p style="font-size:48px;">
-      <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60" height="60" valign="middle" />
+    <p style="font-size:14px;">
+      🚀
       <strong>CONTACT ME</strong>
     </p>
   </td>
   <td width="60%" align="center">
     <table>
       <tr>
-        <td align="center" width="25%">
+        <td align="center" width="25%" style="padding: 0px 0px;">
           <a href="https://www.linkedin.com/in/amr-ashraf-86457134a/" target="_blank">
-            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="130" height="40"/>
           </a>
         </td>
-        <td align="center" width="25%">
+        <td align="center" width="25%" style="padding: 0px 0px;">
           <a href="https://github.com/TendoPain18" target="_blank">
-            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="130" height="40"/>
           </a>
         </td>
-        <td align="center" width="25%">
+        <td align="center" width="25%" style="padding: 0px 0px;">
           <a href="mailto:amrgadalla01@gmail.com">
-            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="130" height="40"/>
           </a>
         </td>
-        <td align="center" width="25%">
+        <td align="center" width="25%" style="padding: 0px 0px;">
           <a href="https://www.facebook.com/amr.ashraf.7311/" target="_blank">
-            <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+            <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" width="130" height="40"/>
           </a>
         </td>
       </tr>
