@@ -155,70 +155,58 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 <!-- CONTACT -->
-<div align="center">
-
-## 📬 Let's Connect!
-
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-</p>
-
-<p align="center">
-  <i>Feel free to reach out through any of these platforms! I'm always open to interesting conversations and collaboration opportunities.</i>
-</p>
-
-<br>
-
-<table align="center">
-  <tr>
-    <td align="center" width="200">
-      <a href="https://www.linkedin.com/in/amr-ashraf-86457134a/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9cc7b3.gif" width="100" height="100" />
-        <br><br>
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        <br>
-        <sub><b>Connect Professionally</b></sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://github.com/TendoPain18" target="_blank">
-        <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="100" height="100" />
-        <br><br>
-        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-        <br>
-        <sub><b>Explore My Projects</b></sub>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="200">
-      <a href="mailto:amrgadalla01@gmail.com">
-        <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="100" height="100" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        <br>
-        <sub><b>Send Me an Email</b></sub>
-      </a>
-    </td>
-    <td align="center" width="200">
-      <a href="https://www.facebook.com/amr.ashraf.7311/" target="_blank">
-        <img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="100" height="100" />
-        <br><br>
-        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-        <br>
-        <sub><b>Follow on Facebook</b></sub>
-      </a>
-    </td>
-  </tr>
+<table align="center" width="80%">
+<tr>
+  <td width="40%" align="center" valign="middle">
+    <p style="font-size:48px;">
+      <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60" height="60" valign="middle" />
+      <strong>CONTACT ME</strong>
+    </p>
+  </td>
+  <td width="60%" align="center">
+    <table>
+      <tr>
+        <td align="center" width="25%">
+          <a href="https://www.linkedin.com/in/amr-ashraf-86457134a/" target="_blank">
+            <div style="background-color:
+#0077B5; padding:20px; border-radius:15px; display:inline-block;">
+              <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9cc7b3.gif" width="60" height="60" />
+            </div><br>
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+          </a>
+        </td>
+        <td align="center" width="25%">
+          <a href="https://github.com/TendoPain18" target="_blank">
+            <div style="background-color:
+#333333; padding:20px; border-radius:15px; display:inline-block;">
+              <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60" height="60" />
+            </div><br>
+            <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+          </a>
+        </td>
+        <td align="center" width="25%">
+          <a href="mailto:amrgadalla01@gmail.com">
+            <div style="background-color:
+#D14836; padding:2https://docs.google.com/document/d/1du96pzCc4WfkVCbtu-N6Ypbqt19cjUFcVxywfGWLRjU/edit?usp=sharing0px; border-radius:15px; display:inline-block;">
+              <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60" height="60" />
+            </div><br>
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+          </a>
+        </td>
+        <td align="center" width="25%">
+          <a href="https://www.facebook.com/amr.ashraf.7311/" target="_blank">
+            <div style="background-color:
+#1877F2; padding:20px; border-radius:15px; display:inline-block;">
+              <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60" height="60" />
+            </div><br>
+            <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+          </a>
+        </td>
+      </tr>
+    </table>
+  </td>
+</tr>
 </table>
-
-<br>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
-</p>
-
-</div>
 <!-- END CONTACT -->
 
 ---
