@@ -1,6 +1,7 @@
 from pygame import mixer
 import pyttsx3
 
+
 class Audio:
     def __init__(self):
         mixer.init()
@@ -8,27 +9,32 @@ class Audio:
         self.voices = self.engine.getProperty('voices')
         self.engine.setProperty('voice', self.voices[1].id)  # 1 for male 0 for female
 
-    def PlayTheme(self):
+    @staticmethod
+    def PlayTheme():
         mixer.music.stop()
         mixer.music.load('audios/theme.mp3')
         mixer.music.play(-1)
 
-    def PlayThemeWin(self):
+    @staticmethod
+    def PlayThemeWin():
         mixer.music.stop()
         mixer.music.load('audios/theme_win.mp3')
         mixer.music.play(-1)
 
-    def PlayPhoneSound(self):
+    @staticmethod
+    def PlayPhoneSound():
         mixer.music.stop()
         mixer.music.load('audios/phone_sound.mp3')
         mixer.music.play()
 
-    def Pause(self):
+    @staticmethod
+    def Pause():
         mixer.music.pause()
 
-    def Continue(self):
+    @staticmethod
+    def Continue():
         mixer.music.play()
 
-    def Say(self,sentence):
+    def Say(self, sentence):
         self.engine.say(sentence)
         self.engine.runAndWait()

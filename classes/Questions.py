@@ -11,12 +11,13 @@ class Questions:
         self.All_D = []
         self.All_R = []
 
-    def GenerateNumbers(self, number):
+    @staticmethod
+    def GenerateNumbers(number):
         NumList = []
         for i in range(15):
-            random_number = (random.randint(1, number) * 6) - 4
+            random_number = random.randint(0, number-1)
             while random_number in NumList:
-                random_number = (random.randint(1, number) * 6) - 4
+                random_number = random.randint(0, number-1)
             NumList.append(random_number)
         return NumList
 
@@ -28,7 +29,8 @@ class Questions:
         self.All_D = []
         self.All_R = []
 
-    def PrepareString(self, sentence):
+    @staticmethod
+    def PrepareString(sentence):
         english = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'q', 'r', 's', 't',
                    'u', 'v', 'w', 'x', 'y', 'z', 'A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N',
                    'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z', '0', '1', '2', '3', '4', '5', '6', '7',
@@ -41,19 +43,18 @@ class Questions:
 
     def readfile(self):
         self.EmptyLists()
+
         file = open('questions.txt', 'r', encoding='utf-8')
-        NumberOfLines = int(file.readline())
-        QuestionsLines = self.GenerateNumbers(NumberOfLines)
-        for i, line in enumerate(file):
-            if i+2 in QuestionsLines:
-                self.All_Q.append(self.PrepareString(line.strip('\n ?؟')))
-                temp = open('questions.txt', 'r', encoding='utf-8')
-                for j, line2 in enumerate(temp):
-                    if j == i + 1:
-                        self.All_A.append(self.PrepareString(temp.readline().strip('\n ?؟')))
-                        self.All_B.append(self.PrepareString(temp.readline().strip('\n ?؟')))
-                        self.All_C.append(self.PrepareString(temp.readline().strip('\n ?؟')))
-                        self.All_D.append(self.PrepareString(temp.readline().strip('\n ?؟')))
-                        self.All_R.append(self.PrepareString(temp.readline().strip('\n ?؟')))
-                temp.close()
+        lines = file.readlines()
         file.close()
+
+        NumberOfQuestions = len(lines) // 6
+        QuestionsLines = self.GenerateNumbers(NumberOfQuestions)
+        for i in QuestionsLines:
+            ql = i * 6
+            self.All_Q.append(self.PrepareString(lines[ql].strip('\n ?؟')))
+            self.All_A.append(self.PrepareString(lines[ql+1].strip('\n ?؟')))
+            self.All_B.append(self.PrepareString(lines[ql+2].strip('\n ?؟')))
+            self.All_C.append(self.PrepareString(lines[ql+3].strip('\n ?؟')))
+            self.All_D.append(self.PrepareString(lines[ql+4].strip('\n ?؟')))
+            self.All_R.append(self.PrepareString(lines[ql+5].strip('\n ?؟')))
