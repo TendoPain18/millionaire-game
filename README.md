@@ -168,33 +168,21 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
       <tr>
         <td align="center" width="25%">
           <a href="https://www.linkedin.com/in/amr-ashraf-86457134a/" target="_blank">
-            <div style="background-color:#0077B5; padding:20px; border-radius:15px; display:inline-block;">
-              <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9cc7b3.gif" width="60" height="60" />
-            </div><br>
             <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
           </a>
         </td>
         <td align="center" width="25%">
           <a href="https://github.com/TendoPain18" target="_blank">
-            <div style="background-color:#333333; padding:20px; border-radius:15px; display:inline-block;">
-              <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60" height="60" />
-            </div><br>
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
           </a>
         </td>
         <td align="center" width="25%">
           <a href="mailto:amrgadalla01@gmail.com">
-            <div style="background-color:#D14836; padding:2https://docs.google.com/document/d/1du96pzCc4WfkVCbtu-N6Ypbqt19cjUFcVxywfGWLRjU/edit?usp=sharing0px; border-radius:15px; display:inline-block;">
-              <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="60" height="60" />
-            </div><br>
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
           </a>
         </td>
         <td align="center" width="25%">
           <a href="https://www.facebook.com/amr.ashraf.7311/" target="_blank">
-            <div style="background-color:#1877F2; padding:20px; border-radius:15px; display:inline-block;">
-              <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="60" height="60" />
-            </div><br>
             <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
           </a>
         </td>
