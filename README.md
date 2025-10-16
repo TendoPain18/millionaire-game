@@ -166,42 +166,33 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     </summary>
   </ul>
 </div>
+
 <div align="center">
   <table>
     <tr>
-      <td align="center" style="padding: 20px;">
+      <td align="center" width="20%" style="padding: 20px; background-color: #0077B5;">
         <a href="https://www.linkedin.com/in/amr-ashraf-86457134a/" target="_blank">
-          <img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9cc7b3.gif" width="80" height="80" style="border-radius: 15px;" />
-          <br>
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-top: 5px;" />
         </a>
       </td>
-      <td align="center" style="padding: 20px;">
+      <td align="center" width="20%" style="padding: 20px; background-color: #100000;">
         <a href="https://github.com/TendoPain18" target="_blank">
-          <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="80" height="80" style="border-radius: 15px;" />
-          <br>
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="margin-top: 5px;" />
         </a>
       </td>
-      <td align="center" style="padding: 20px;">
+      <td align="center" width="20%" style="padding: 20px; background-color: #D14836;">
         <a href="mailto:amrgadalla01@gmail.com">
-          <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="80" height="80" style="border-radius: 15px;" />
-          <br>
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-top: 5px;" />
         </a>
       </td>
-      <td align="center" style="padding: 20px;">
+      <td align="center" width="20%" style="padding: 20px; background-color: #25D366;">
         <a href="https://wa.me/201019702121" target="_blank">
-          <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="80" height="80" style="border-radius: 15px;" />
-          <br>
-          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="margin-top: 5px;" />
         </a>
       </td>
-      <td align="center" style="padding: 20px;">
+      <td align="center" width="20%" style="padding: 20px; background-color: #1877F2;">
         <a href="https://www.facebook.com/amr.ashraf.7311/" target="_blank">
-          <img src="https://user-images.githubusercontent.com/74038190/235294010-ec412ef5-e3da-4efa-b1d4-0ab4d4638755.gif" width="80" height="80" style="border-radius: 15px;" />
-          <br>
-          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="margin-top: 5px;" />
         </a>
       </td>
     </tr>
