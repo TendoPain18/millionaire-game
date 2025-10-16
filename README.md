@@ -153,7 +153,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Uses pygame for audio playback
 - TTS powered by pyttsx3
 
-## 📧 Contact
+
 <!-- CONTACT -->
 <!-- END CONTACT -->
 
