@@ -156,32 +156,30 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <!-- CONTACT -->
 <h1 align="center" style="
-  font-size: 40px;
-  font-weight: 800;
-  color: #0A66C2;
-  text-shadow: 0px 0px 8px rgba(10,102,194,0.4);
-  letter-spacing: 2px;
-  margin-bottom: 20px;
+  font-size: 38px;
+  font-weight: 700;
+  letter-spacing: 1px;
+  margin-bottom: 25px;
+  border-bottom: none !important;
 ">
   🚀 CONTACT ME 🚀
 </h1>
 
-
 <p align="center">
   <a href="https://www.linkedin.com/in/amr-ashraf-86457134a/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="50"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/TendoPain18" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="50"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:amrgadalla01@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="50"/>
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://wa.me/201019702121" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" height="50"/>
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/amr.ashraf.7311/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height="50"/>
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </p>
 <!-- END CONTACT -->
