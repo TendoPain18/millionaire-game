@@ -172,27 +172,42 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
     <tr>
       <td align="center" width="20%" style="padding: 20px; background-color: #0077B5;">
         <a href="https://www.linkedin.com/in/amr-ashraf-86457134a/" target="_blank">
-          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="margin-top: 5px;" />
+          <svg width="100" height="35" xmlns="http://www.w3.org/2000/svg">
+            <rect width="100" height="35" fill="#0077B5"/>
+            <text x="50" y="26" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">LinkedIn</text>
+          </svg>
         </a>
       </td>
       <td align="center" width="20%" style="padding: 20px; background-color: #100000;">
         <a href="https://github.com/TendoPain18" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="margin-top: 5px;" />
+          <svg width="100" height="35" xmlns="http://www.w3.org/2000/svg">
+            <rect width="100" height="35" fill="#100000"/>
+            <text x="50" y="26" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">GitHub</text>
+          </svg>
         </a>
       </td>
       <td align="center" width="20%" style="padding: 20px; background-color: #D14836;">
         <a href="mailto:amrgadalla01@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="margin-top: 5px;" />
+          <svg width="100" height="35" xmlns="http://www.w3.org/2000/svg">
+            <rect width="100" height="35" fill="#D14836"/>
+            <text x="50" y="26" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Gmail</text>
+          </svg>
         </a>
       </td>
       <td align="center" width="20%" style="padding: 20px; background-color: #25D366;">
         <a href="https://wa.me/201019702121" target="_blank">
-          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="margin-top: 5px;" />
+          <svg width="100" height="35" xmlns="http://www.w3.org/2000/svg">
+            <rect width="100" height="35" fill="#25D366"/>
+            <text x="50" y="26" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">WhatsApp</text>
+          </svg>
         </a>
       </td>
       <td align="center" width="20%" style="padding: 20px; background-color: #1877F2;">
         <a href="https://www.facebook.com/amr.ashraf.7311/" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="margin-top: 5px;" />
+          <svg width="100" height="35" xmlns="http://www.w3.org/2000/svg">
+            <rect width="100" height="35" fill="#1877F2"/>
+            <text x="50" y="26" font-family="Arial, sans-serif" font-size="18" font-weight="bold" fill="white" text-anchor="middle">Facebook</text>
+          </svg>
         </a>
       </td>
     </tr>
