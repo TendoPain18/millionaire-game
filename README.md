@@ -195,7 +195,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </tr>
 </table>
 <!-- END CONTACT -->
-<br>
 
 ##
 
