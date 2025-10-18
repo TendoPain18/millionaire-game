@@ -7,7 +7,7 @@ class Audio:
         mixer.init()
         self.engine = pyttsx3.init()
         self.voices = self.engine.getProperty('voices')
-        self.engine.setProperty('voice', self.voices[1].id)  # 1 for male 0 for female
+        self.engine.setProperty('voice', self.voices[0].id)  # 1 for male 0 for female
 
     @staticmethod
     def PlayTheme():
