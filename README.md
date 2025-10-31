@@ -2,7 +2,7 @@
 
 A Python implementation of the classic "Who Wants To Be A Millionaire" game with a graphical user interface built using Tkinter.
 
-[![Watch the video](https://img.youtube.com/vi/WnheYYFGvpE/0.jpg)](https://www.youtube.com/embed/WnheYYFGvpE?si=tHZI7zHOlATEE5pq)
+[![Watch the video](images/youtube_window_1.png)](https://www.youtube.com/embed/WnheYYFGvpE?si=GYpoztgCgXjlaXol)
 
 ## 📋 Description
 
