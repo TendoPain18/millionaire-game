@@ -2,7 +2,7 @@
 
 A Python implementation of the classic "Who Wants To Be A Millionaire" game with a graphical user interface built using Tkinter.
 
-![Game Banner](images/start_BG.png)
+[![Game Demo](https://img.youtube.com/vi/WnheYYFGvpE/0.jpg)](https://youtu.be/WnheYYFGvpE)
 
 ## 📋 Description
 
@@ -24,10 +24,12 @@ This interactive trivia game faithfully recreates the experience of the popular 
 
 ### Start Screen
 ![Start Screen](images/start_screen.png)
+
 *The game's welcome screen with the iconic logo*
 
 ### Game Window
 ![Game Window](images/game_window.png)
+
 *Main gameplay interface showing question, answer choices, and lifelines*
 
 ### Progress Tracker
@@ -60,10 +62,9 @@ python main.py
 - arabic-reshaper
 - tkinter (usually comes with Python)
 
-See `requirements.txt` for specific versions.
+See requirements.txt for specific versions.
 
 ## 📁 Project Structure
-
 ```
 millionaire-game/
 │
@@ -90,16 +91,15 @@ millionaire-game/
 
 ## 📝 Question Format
 
-The `questions.txt` file should follow this format:
-
+The questions.txt file should follow this format:
 ```
-[Number of total questions in file]
 Question 1?
 Answer A
 Answer B
 Answer C
 Answer D
 Correct Answer
+
 Question 2?
 ...
 ```
@@ -126,7 +126,7 @@ The game randomly selects 15 questions from your question bank each time you pla
 
 ## 🌍 Language Support
 
-The game supports both English and Arabic text through the `arabic-reshaper` library, which properly formats Arabic text for display.
+The game supports both English and Arabic text through the arabic-reshaper library, which properly formats Arabic text for display.
 
 ## 🤝 Contributing
 
@@ -147,56 +147,55 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🙏 Acknowledgments
 
 - Inspired by the classic "Who Wants To Be A Millionaire" TV show
-- Images and audio assets from [Coding Lifestyle 4u](https://www.youtube.com/@codinglifestyle4u) YouTube channel - [Tutorial Video](https://www.youtube.com/watch?v=uj_52lCH4I8)
+- Images and audio assets from [Coding Lifestyle 4u](https://www.youtube.com/@codinglifestyle4u) YouTube channel
+- [Tutorial Video](https://www.youtube.com/watch?v=uj_52lCH4I8)
 - Game implementation and code written independently from scratch by me
 - Built with Python and Tkinter
 - Uses pygame for audio playback
 - TTS powered by pyttsx3
 
-##
-<!-- CONTACT -->
+## <!-- CONTACT -->
+
 <div id="toc" align="center">
   <ul style="list-style: none">
     <summary>
       <h2 align="center">
-        🚀
-        CONTACT ME
-        🚀
+        🚀 CONTACT ME 🚀
       </h2>
     </summary>
   </ul>
 </div>
+
 <table align="center" style="width: 100%; max-width: 600px;">
-<tr>
-  <td style="width: 20%; text-align: center;">
-    <a href="https://www.linkedin.com/in/amr-ashraf-86457134a/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 33px; width: 120px;"/>
-    </a>
-  </td>
-  <td style="width: 20%; text-align: center;">
-    <a href="https://github.com/TendoPain18" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="height: 33px; width: 120px;"/>
-    </a>
-  </td>
-  <td style="width: 20%; text-align: center;">
-    <a href="mailto:amrgadalla01@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height: 33px; width: 120px;"/>
-    </a>
-  </td>
-  <td style="width: 20%; text-align: center;">
-    <a href="https://www.facebook.com/amr.ashraf.7311/" target="_blank">
-      <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="height: 33px; width: 120px;"/>
-    </a>
-  </td>
-  <td style="width: 20%; text-align: center;">
-    <a href="https://wa.me/201019702121" target="_blank">
-      <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="height: 33px; width: 120px;"/>
-    </a>
-  </td>
-</tr>
+  <tr>
+    <td style="width: 20%; text-align: center;">
+      <a href="https://www.linkedin.com/in/amr-ashraf-86457134a/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="height: 33px; width: 120px;"/>
+      </a>
+    </td>
+    <td style="width: 20%; text-align: center;">
+      <a href="https://github.com/TendoPain18" target="_blank">
+        <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" style="height: 33px; width: 120px;"/>
+      </a>
+    </td>
+    <td style="width: 20%; text-align: center;">
+      <a href="mailto:amrgadalla01@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" style="height: 33px; width: 120px;"/>
+      </a>
+    </td>
+    <td style="width: 20%; text-align: center;">
+      <a href="https://www.facebook.com/amr.ashraf.7311/" target="_blank">
+        <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" style="height: 33px; width: 120px;"/>
+      </a>
+    </td>
+    <td style="width: 20%; text-align: center;">
+      <a href="https://wa.me/201019702121" target="_blank">
+        <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" style="height: 33px; width: 120px;"/>
+      </a>
+    </td>
+  </tr>
 </table>
+
 <!-- END CONTACT -->
 
-##
-
-**Enjoy the game and good luck becoming a millionaire! 💰✨**
+## **Enjoy the game and good luck becoming a millionaire! 💰✨**
