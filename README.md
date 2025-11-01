@@ -8,6 +8,14 @@ A Python implementation of the classic "Who Wants To Be A Millionaire" game with
 
 This interactive trivia game faithfully recreates the experience of the popular TV show. Answer 15 questions correctly to win the grand prize! The game features lifelines, background music, and support for both English and Arabic questions.
 
+<br>
+<br>
+<div align="center">
+  <a href="https://github.com/TendoPain18/millionaire-game/raw/main/dist/millionaire-game.rar">
+    <img src="https://img.shields.io/badge/Download-Demo-brightgreen?style=for-the-badge&logo=download&logoColor=white" alt="Download Demo" style="height: 50px;"/>
+  </a>
+</div>
+
 ## ✨ Features
 
 - **15 Progressive Questions**: Answer increasingly difficult questions to win up to 1 million Euros
@@ -153,6 +161,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Built with Python and Tkinter
 - Uses pygame for audio playback
 - TTS powered by pyttsx3
+
+
+<div align="center">
+  <a href="https://github.com/TendoPain18/millionaire-game/raw/main/dist/millionaire-game.rar">
+    <img src="https://img.shields.io/badge/Download-Demo-brightgreen?style=for-the-badge&logo=download&logoColor=white" alt="Download Demo" style="height: 50px;"/>
+  </a>
+</div>
+
 
 ## <!-- CONTACT -->
 
